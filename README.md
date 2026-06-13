@@ -4,7 +4,10 @@
 
 > Modern Premium Calculator built with HTML5, TailwindCSS, and Vanilla JavaScript.
 
-HCalc adalah aplikasi kalkulator modern dengan desain premium ala aplikasi tahun 2026 yang menggabungkan Apple Calculator, Nothing OS, Glassmorphism, dan Fluent Design menjadi satu pengalaman yang cepat, elegan, dan kaya fitur.
+<a href="https://h-calc.vercel.app/">HCalc</a> adalah aplikasi kalkulator modern dengan desain premium ala aplikasi tahun 2026 yang menggabungkan Apple Calculator, Nothing OS, Glassmorphism, dan Fluent Design menjadi satu pengalaman yang cepat, elegan, dan kaya fitur.
+
+Online access 
+<a href="https://h-calc.vercel.app/">h-calc.vercel.app</a>
 
 ---
 
