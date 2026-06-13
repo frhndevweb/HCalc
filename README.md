@@ -1,6 +1,6 @@
 # 🚀 HCalc — Premium Calculator 2026
 
-![HCalc Banner](assets/images/logo.svg)
+![HCalc Banner](https://github.com/frhndevweb/HCalc/blob/main/public/hcalc/assets/images/logo.svg)
 
 > Modern Premium Calculator built with HTML5, TailwindCSS, and Vanilla JavaScript.
 
